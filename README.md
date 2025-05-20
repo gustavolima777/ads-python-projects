@@ -27,7 +27,7 @@ Passo 1: Clone o repositório
 Primeiro, clone o repositório para o seu ambiente local:
 
 
-git clone https://github.com/sua-organizacao/students-manager.git  
+git clone https://github.com/gustavolima777/students-manager.git  
  
 Entre no diretório do projeto:
 
