@@ -1,0 +1,204 @@
+{
+    "students": [
+        {
+            "name": "John Doe",
+            "course": {
+                "course_name": "Computer Science",
+                "subjects": {
+                    "Math": {
+                        "professor": "Dr. Brown",
+                        "grade": 50
+                    },
+                    "Physics": {
+                        "professor": "Dr. Smith",
+                        "grade": 70
+                    },
+                    "Chemistry": {
+                        "professor": "Dr. White",
+                        "grade": 60
+                    }
+                }
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "course": {
+                "course_name": "Biology",
+                "subjects": {
+                    "Biology": {
+                        "professor": "Dr. Green",
+                        "grade": 85
+                    },
+                    "Chemistry": {
+                        "professor": "Dr. White",
+                        "grade": 78
+                    },
+                    "Math": {
+                        "professor": "Dr. Brown",
+                        "grade": 92
+                    }
+                }
+            }
+        },
+        {
+            "name": "Alice Johnson",
+            "course": {
+                "course_name": "Mathematics",
+                "subjects": {
+                    "Algebra": {
+                        "professor": "Dr. Black",
+                        "grade": 88
+                    },
+                    "Calculus": {
+                        "professor": "Dr. Grey",
+                        "grade": 90
+                    },
+                    "Statistics": {
+                        "professor": "Dr. Red",
+                        "grade": 85
+                    }
+                }
+            }
+        },
+        {
+            "name": "Bob Brown",
+            "course": {
+                "course_name": "Physics",
+                "subjects": {
+                    "Physics": {
+                        "professor": "Dr. Smith",
+                        "grade": 75
+                    },
+                    "Math": {
+                        "professor": "Dr. Brown",
+                        "grade": 80
+                    },
+                    "Astronomy": {
+                        "professor": "Dr. Blue",
+                        "grade": 70
+                    }
+                }
+            }
+        },
+        {
+            "name": "Charlie Davis",
+            "course": {
+                "course_name": "Chemistry",
+                "subjects": {
+                    "Chemistry": {
+                        "professor": "Dr. White",
+                        "grade": 82
+                    },
+                    "Biology": {
+                        "professor": "Dr. Green",
+                        "grade": 74
+                    },
+                    "Physics": {
+                        "professor": "Dr. Smith",
+                        "grade": 78
+                    }
+                }
+            }
+        },
+        {
+            "name": "Dave Evans",
+            "course": {
+                "course_name": "Engineering",
+                "subjects": {
+                    "Mechanics": {
+                        "professor": "Dr. Silver",
+                        "grade": 65
+                    },
+                    "Thermodynamics": {
+                        "professor": "Dr. Gold",
+                        "grade": 70
+                    },
+                    "Math": {
+                        "professor": "Dr. Brown",
+                        "grade": 75
+                    }
+                }
+            }
+        },
+        {
+            "name": "Eva Green",
+            "course": {
+                "course_name": "Art",
+                "subjects": {
+                    "Painting": {
+                        "professor": "Dr. Purple",
+                        "grade": 90
+                    },
+                    "Sculpture": {
+                        "professor": "Dr. Orange",
+                        "grade": 85
+                    },
+                    "Art History": {
+                        "professor": "Dr. Yellow",
+                        "grade": 88
+                    }
+                }
+            }
+        },
+        {
+            "name": "Frank Harris",
+            "course": {
+                "course_name": "History",
+                "subjects": {
+                    "World History": {
+                        "professor": "Dr. Yellow",
+                        "grade": 80
+                    },
+                    "European History": {
+                        "professor": "Dr. Pink",
+                        "grade": 75
+                    },
+                    "American History": {
+                        "professor": "Dr. Cyan",
+                        "grade": 78
+                    }
+                }
+            }
+        },
+        {
+            "name": "Grace Lee",
+            "course": {
+                "course_name": "Literature",
+                "subjects": {
+                    "English": {
+                        "professor": "Dr. Indigo",
+                        "grade": 85
+                    },
+                    "French": {
+                        "professor": "Dr. Violet",
+                        "grade": 80
+                    },
+                    "Spanish": {
+                        "professor": "Dr. Magenta",
+                        "grade": 78
+                    }
+                }
+            }
+        },
+        {
+            "name": "Henry Martin",
+            "course": {
+                "course_name": "Philosophy",
+                "subjects": {
+                    "Ethics": {
+                        "professor": "Dr. Silver",
+                        "grade": 82
+                    },
+                    "Logic": {
+                        "professor": "Dr. Gold",
+                        "grade": 88
+                    },
+                    "Metaphysics": {
+                        "professor": "Dr. Copper",
+                        "grade": 84
+                    }
+                }
+            }
+        }
+    ]
+}
